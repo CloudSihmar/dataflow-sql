@@ -1,6 +1,6 @@
 1. Create a bucket to store the outout or temporary data and upload the csv file
 
-2. Create a bigquery dataset and a table with a schema
+2. Create a bigquery dataset and a table with a schema:- 
    
    dataset: dataset_demo
    Table: output-sql
