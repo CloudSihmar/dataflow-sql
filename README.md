@@ -1,4 +1,4 @@
-1. Create a bucket to store the outout or temporary data and upload the csv file
+1. Create a bucket to store the output or temporary data and upload the csv file
 
 2. Create a bigquery dataset and a table with a schema:- 
    
